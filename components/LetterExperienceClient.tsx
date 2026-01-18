@@ -24,6 +24,11 @@ export default function LetterExperienceClient({
   const [done, setDone] = useState(false);
 
   useEffect(() => {
+    setOpened(false);
+    setDone(false);
+  }, [day]);
+
+  useEffect(() => {
     try {
       localStorage.setItem(`opened_day_${day}`, "1");
     } catch {
