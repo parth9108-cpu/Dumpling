@@ -18,7 +18,7 @@ export const allLetters: Letter[] = [
     title: "First Time we Talked",
     unlockAt: "2026-01-18T18:30:00Z",
     content:
-      "Tonight, I’m taking you back to the moment we became real.\n\nNot perfect. Not planned. Just… ours.\n\nIf you’re reading this at midnight, it means you kept your promise: you came back.\n\nGood night ❤️",
+      "Tonight, I’m taking you back to the moment we became real.\n\nNot perfect.\nNot planned.\nJust… ours.\n\nIf you’re reading this at midnight, it means you kept your promise — you came back.\n\nIt all started so simply.\nSliding into your DMs by sending a reel.\nThat was the first time I messaged you.\n\nI was nervous.\nSo nervous that I deleted it from my side.\nBut somehow, we still ended up talking.\nAnd talking.\nAnd then talking every day.\n\nNew Year’s Eve.\nMessages turning into moments.\nAnd then… meeting you for the first time.\n\nIt was a whole new experience.\nUnplanned.\nUnexpected.\nBut unforgettable.\n\nTalking to you feels different.\nThere’s a calm.\nA kind of peace.\nSomething that just feels right.\n\nWe talked about everything.\nFrom YOU and ME… to US.\nFrom Snehal… to bachaa.\nFrom small conversations to big feelings.\nSo many things.\n\nI know you’re waiting for the 25th.\nBut wait.\nIt’s going to be the sweetest day, love.\n\nGood night ❤️\n✨🎆",
     media: { image: null, song: null, video: null }
   },
   {
