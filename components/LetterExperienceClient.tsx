@@ -89,7 +89,10 @@ export default function LetterExperienceClient({
               <div className="mt-3 font-[var(--font-playfair)] text-2xl">Tap to open</div>
               <button
                 type="button"
-                onClick={() => setOpened(true)}
+                onClick={() => {
+                  setDone(false);
+                  setOpened(true);
+                }}
                 className="mt-6 rounded-full bg-white/10 px-6 py-3 font-[var(--font-inter)] text-sm text-white hover:bg-white/15"
               >
                 Open
@@ -119,35 +122,20 @@ export default function LetterExperienceClient({
                   setDone(true);
                 }}
               />
+
+              {done ? (
+                <div className="mt-8 flex flex-col items-center justify-center gap-4 text-center">
+                  <div className="font-[var(--font-playfair)] text-2xl">Good night ❤️</div>
+                  <Link
+                    href="/letters"
+                    className="inline-flex w-full max-w-md items-center justify-center rounded-full bg-white/10 px-5 py-3 font-[var(--font-inter)] text-sm text-white hover:bg-white/15"
+                  >
+                    Close & Sleep
+                  </Link>
+                </div>
+              ) : null}
             </motion.div>
           )}
-        </AnimatePresence>
-
-        <AnimatePresence>
-          {done ? (
-            <motion.div
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              exit={{ opacity: 0 }}
-              className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 px-6"
-            >
-              <motion.div
-                initial={{ y: 10, opacity: 0, scale: 0.98 }}
-                animate={{ y: 0, opacity: 1, scale: 1 }}
-                exit={{ y: 10, opacity: 0, scale: 0.98 }}
-                className="w-full max-w-md rounded-2xl border border-white/10 bg-[#0b0a22]/90 p-6 text-center backdrop-blur"
-              >
-                <div className="font-[var(--font-playfair)] text-2xl">Good night ❤️</div>
-                <div className="mt-2 font-[var(--font-inter)] text-sm text-white/70">I’ll see you again tomorrow.</div>
-                <Link
-                  href="/letters"
-                  className="mt-6 inline-flex w-full items-center justify-center rounded-full bg-white/10 px-5 py-3 font-[var(--font-inter)] text-sm text-white hover:bg-white/15"
-                >
-                  Close & Sleep
-                </Link>
-              </motion.div>
-            </motion.div>
-          ) : null}
         </AnimatePresence>
       </div>
     </main>
