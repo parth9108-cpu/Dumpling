@@ -26,7 +26,7 @@ export const allLetters: Letter[] = [
     title: "Things I Fell in Love With",
     unlockAt: "2026-01-19T18:30:00Z",
     content:
-      "There are a thousand small reasons.\n\nSome are loud. Most are quiet.\n\nTonight I’ll tell you the quiet ones.\n\nGood night ❤️",
+      "Tonight, I’m taking you back to the moment we became real.\n\nNot perfect.\nNot planned.\nJust… ours.\n\nIf you’re reading this at midnight, it means you kept your promise.\nYou came back.\n\nI fell for you — for your English,\nthe way you carry yourself,\nyour confidence.\nSo good.\nSo cute.\nSo intelligent.\nPerfect, my dear love.\n\nBut honestly, I fell even harder for you in the quiet moments —\nwhen I saw the stars and the letter you gave me,\nwhen you took me to the movies when I felt low,\nwhen you took me on dates,\nand when I met an innocent girl\nwho never showed the world who she really was,\nbut showed everything to me.\n\nI love you.\n\n(memories)\n\nWait for the 25th, my dear love.\n\nGood night ❤️",
     media: { image: null, song: null, video: null }
   },
   {
