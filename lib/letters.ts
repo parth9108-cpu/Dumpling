@@ -34,7 +34,7 @@ export const allLetters: Letter[] = [
     title: "Us Through Struggles",
     unlockAt: "2026-01-20T18:30:00Z",
     content:
-      "Not every day was soft.\n\nBut even when it rained, we kept choosing each other.\n\nIf you ever doubt us, remember: we survived the storm.\n\nGood night ❤️",
+      "Tonight, I’m taking you back to the moment we became real.\n\nNot perfect. Not planned. Just… ours.\n\nIf you’re reading this at midnight, it means you kept your promise — you came back.\n\nI know we’ve been through a lot. So many struggles, so many ups and downs… and honestly, more downs.\n\nI know I made you feel bad at times. I know there were trust issues, tears, and moments where everything felt heavy.\n\nBut still — we found our way back to each other. Every single time.\n\nThat’s because our bond is pure. Our love is pure. And you… you are pure, my baby girl.\n\nI love you so much, Dumpling. One whole year passed and I don’t even know how it went by.\n\nI remember the crying streaks, the pain, the silence — and yet, after every struggle, we chose each other again.\nNot every day was soft.\n\nBut even when it rained, we kept choosing each other.\n\nIf you ever doubt us, remember: we survived the storm.\n\nToodles\n\nGood night ❤️\n\nWait for the 25th.\n\n(No hints today — just go and open the window.)",
     media: { image: null, song: null, video: null }
   },
   {
