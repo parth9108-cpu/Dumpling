@@ -43,7 +43,7 @@ export const allLetters: Letter[] = [
     title: "What You Mean to Me Today",
     unlockAt: "2026-01-22T18:30:00Z",
     content:
-      "Some love is a memory.\n\nBut ours is also a present tense.\n\nTonight I want you to feel how much you matter, right now.\n\nGood night ❤️",
+      "Tonight, I’m taking you back to the moment we became real.\n\n Perfect. Not planned. Just… ours.\n\nIf you’re reading this at midnight, it means you kept your promise: you came back.\n\nWhat you mean to me today is way beyond anything — like the moon with its stars, like the sun with its sunlight, like Tony with Pepper, like a soul with a heart. You mean so much to me. And you know what? It’s going to be a year as we’ll be together on the 25th, and we’ll be so happy. Mwah!\n\nToday, you mean peace to me — the kind that quiets my mind without saying a word.\nYou mean home, even on days when the world feels unfamiliar.\nRight now, you’re my reminder that love doesn’t have to be loud to be real.\nToday, you mean stability — the calm I didn’t know I needed.\n\nToday, you mean my favorite thought.\nYou mean the smile that comes without effort.\nRight now, you mean more than words can explain and less than promises need.\nYou mean something real in a world that often isn’t.\n\nHeheh, this is what we are — love!!\nWait for the 25th, mwahhh 💕\nToodles 🌙",
     media: { image: null, song: null, video: null }
   },
   {
