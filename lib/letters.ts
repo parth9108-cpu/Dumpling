@@ -49,7 +49,7 @@ export const allLetters: Letter[] = [
   {
     day: 6,
     title: "Kaho Na Pyaar Hai",
-    unlockAt: "2026-01-23T18:30:00Z",
+    unlockAt: "2026-01-24T18:30:00Z",
     content:
       "Close your eyes for a second.\n\nPicture the version of us that made it.\n\nI want to build that world with you.\n\nGood night ❤️",
     media: { image: null, song: null, video: null }
