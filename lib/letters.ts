@@ -57,7 +57,7 @@ export const allLetters: Letter[] = [
   {
     day: 7,
     title: "The Day We Became Us",
-    unlockAt: "2026-01-24T18:30:00Z",
+    unlockAt: "2026-01-25T18:30:00Z",
     content:
       "If you’ve reached the last night, it means you walked with me through every feeling.\n\nTonight, everything is gold.\n\nOne last thing is waiting for you.\n\nGood night ❤️",
     media: { image: null, song: null, video: null }
