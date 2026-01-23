@@ -49,9 +49,9 @@ export const allLetters: Letter[] = [
   {
     day: 6,
     title: "Kaho Na Pyaar Hai",
-    unlockAt: "2026-01-24T18:30:00Z",
+    unlockAt: "2026-01-23T18:30:00Z",
     content:
-      "Close your eyes for a second.\n\nPicture the version of us that made it.\n\nI want to build that world with you.\n\nGood night ❤️",
+      "Tonight, I’m taking you back to the moment we became real.\n\nNot perfect. Not planned. Just… ours.\n\nIf you’re reading this at midnight, it means you kept your promise: you came back.\n\nGood night ❤️\n\nKaho na pyaar hai!! yaad hai? kitni khush thi tu! such a big smile on your face damnnn!!\n\nThat day we both were so bright like couples!!\n\nAnd tbh sorry for that fight but i remember more about us being so happy and holding hands, we were singing on all songs of that movie and then saying “so cool song” and all!!\n\nI remember it all!\n\nBut the BEST PART:\nKAHO NA PYAAR HAI!!\nAND YOU SAID YES!!!!\n\nWas never fading from my memories ever!\n\nI love you shoo much!!\n\nThen we went to cafe gypsy and ate so much food and cocktails and kissed heheh!!\n\nI love you baby!!\n\nWait for 25th mwahhh\n\nToodles 💕",
     media: { image: null, song: null, video: null }
   },
   {
